@@ -1,7 +1,5 @@
-# dhcp-client-server-lab
-Cisco Packet Tracer lab configuring a DHCP server, router interface (Gig0/0), switch, and end devices on the 192.168.1.0/24 network.
-
 # DHCP Client Server Lab
+Cisco Packet Tracer lab configuring a DHCP server, router interface (Gig0/0), switch, and end devices on the 192.168.1.0/24 network.
 
 A [Cisco Packet Tracer](https://www.cisco.com/c/en/us/training-events/training-certifications/training/packet-tracer.html) networking lab demonstrating dynamic IP address assignment across a `192.168.1.0/24` subnet using a dedicated DHCP Server, a Cisco Router (`RT1`), a Layer 2 Switch (`SW1`), and client hosts (`PC0`, `PC1`, `Laptop0`, `Laptop1`).
 
